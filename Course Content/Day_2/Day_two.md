@@ -57,7 +57,7 @@ This repository contains resources, configurations, and labs related to **networ
 ## 4. How to Use This Repository
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/network-security
+   git clone https://github.com/kibuti-software/network-security
    ```
 2. Navigate to the relevant section:
    ```sh
